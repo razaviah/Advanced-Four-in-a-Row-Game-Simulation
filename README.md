@@ -24,5 +24,3 @@ Types of players that can participate in the game:
 ## How to run:
 
 To run the game, use the following command: `python four_in_a_row.py`
-
-More details can be found at: [Connect-Four.pdf](https://github.com/razaviah/Connect-Four/files/9135404/Project2.pdf)
